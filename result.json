@@ -1,0 +1,19 @@
+{
+    "recorder": [
+        {
+            "action": "click",
+            "target": "//*[@id=\\\"touchnav-wrapper\\\"]/HEADER[1]/DIV[1]/DIV[3]/P[1]",
+            "value": ""
+        },
+        {
+            "action": "click",
+            "target": "//*[@id=\\\"touchnav-wrapper\\\"]/HEADER[1]/DIV[1]/DIV[3]/P[1]",
+            "value": ""
+        },
+        {
+            "action": "type",
+            "target": "//*[@id=\\\"id-search-field\\\"]",
+            "value": "test e"
+        }
+    ]
+}
